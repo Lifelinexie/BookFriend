@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1692111709346') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bookList:before {
+  content: "\e62c";
+  font-size: 24px;
+}
+
+.icon-read:before {
+  content: "\e62d";
+  font-size: 24px;
+}
+
